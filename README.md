@@ -38,16 +38,16 @@ Follow these steps to run the application locally:
 1. **Clone the repository**:
 
    ```bash
-   $ git clone https://github.com/rohitjuyal21/registerKro-assessment.git
+   git clone https://github.com/rohitjuyal21/registerKro-assessment.git
 
-   $ cd registerKro-assessment
+   cd registerKro-assessment
    ```
 
 2. **Install dependencies**:
    ```bash
-   $ npm install
+   npm install
    ```
 3. **Start the development server**:
    ```bash
-   $ npm run dev
+   npm run dev
    ```
